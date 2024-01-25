@@ -48,9 +48,9 @@ Those missing and wrong data need to be removed in the next step.
 
 ### Data Cleaning
 Continued working on BigQuery, we removed the missing rows as well as the data that has wrong information. And we also added 3 columns:
-ride_lenth, the time spent on each ride
-month_of_year, from January to December
-day_of_week, from Sunday to Saturday
+ride_lenth（the time spent on each ride）
+month_of_year（from January to December）
+day_of_week（from Sunday to Saturday）
 After the cleaning, we have 4168721 rows remaining and ready to be analyized.
 
 ### Data Analyze
