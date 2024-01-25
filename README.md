@@ -1,12 +1,12 @@
 Hello, this Portfolio showcase a case study I've done while I was taking the Google Data Analytics Certificate program
 
-Data source: [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html)
+###Data source: [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html)
 
-Queried using: BigQuery Sandbox
+###Queried using: BigQuery Sandbox
 
-Data visualization: Tableau
+###Data visualization: Tableau
 
-SQL Queries: [Cyclistics data](https://github.com/markwei93/markwei93.github.io/blob/main/Cyclistics%20data.sql)
+###SQL Queries: [Cyclistics data](https://github.com/markwei93/markwei93.github.io/blob/main/Cyclistics%20data.sql)
 
 ![Sheet 1](https://github.com/markwei93/markwei93.github.io/assets/157609668/3cd79f2d-105c-4518-b1b9-d0848b408f8f)
 ![Sheet 2](https://github.com/markwei93/markwei93.github.io/assets/157609668/4a78be51-d411-4bda-93cd-8f918513c87a)
