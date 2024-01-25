@@ -1,0 +1,30 @@
+--DATA COMBINING
+
+
+-- merge 12 months of data into 1 table
+CREATE TABLE `cyclistic.trip_2023_combined` AS 
+(
+  SELECT * FROM `onyx-codex-390102.cyclistic.trip202301`
+  UNION ALL
+  SELECT * FROM `onyx-codex-390102.cyclistic.trip202302`
+  UNION ALL
+  SELECT * FROM `onyx-codex-390102.cyclistic.trip202303`
+  UNION ALL
+  SELECT * FROM `onyx-codex-390102.cyclistic.trip202304`
+  UNION ALL
+  SELECT * FROM `onyx-codex-390102.cyclistic.trip202305`
+  UNION ALL
+  SELECT * FROM `onyx-codex-390102.cyclistic.trip202306`
+  UNION ALL
+  SELECT * FROM `onyx-codex-390102.cyclistic.trip202307`
+  UNION ALL
+  SELECT * FROM `onyx-codex-390102.cyclistic.trip202308`
+  UNION ALL
+  SELECT * FROM `onyx-codex-390102.cyclistic.trip202309`
+  UNION ALL
+  SELECT * FROM `onyx-codex-390102.cyclistic.trip202310`
+  UNION ALL
+  SELECT * FROM `onyx-codex-390102.cyclistic.trip202311`
+  UNION ALL
+  SELECT * FROM `onyx-codex-390102.cyclistic.trip202312`
+);
