@@ -1,4 +1,4 @@
-Google Data Analytics Case Study 1
+Hello, this Portfolio showcase a case study I've done while I was taking the Google Data Analytics Certificate program
 
 Data source: https://divvy-tripdata.s3.amazonaws.com/index.html
 Queried using: BigQuery Sandbox
