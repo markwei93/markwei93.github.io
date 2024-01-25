@@ -38,6 +38,7 @@ CREATE TABLE `cyclistic.trip_2023_combined` AS
 
 -- Checking for missing and wrong data
 
+
 -- Count how many rows are in the table
 SELECT COUNT(*)
 FROM `cyclistic.trip_2023_combined`; --total 5719877 rows
@@ -64,6 +65,7 @@ start_lng is NULL OR
 end_lat is NULL OR
 end_lng is NULL OR
 member_casual is NULL; --1388170 rows have missing data
+
 
 -- Checking if there are wrong entries for data_id
 
@@ -92,6 +94,7 @@ ended_at - started_at AS length_of_trip
 FROM `cyclistic.trip_2023_combined`
 ORDER BY length_of_trip DESC; 
 --We can see there are rows that have negative time for riding the bike and also some rows that are longer than a day
+
 
 -- Checking for member_casucal which should be 2 unique values, member and casual
 SELECT DISTINCT member_casual, COUNT( member_casual) AS no_of_trips
