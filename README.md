@@ -4,6 +4,8 @@ Data source: https://divvy-tripdata.s3.amazonaws.com/index.html
 Queried using: BigQuery Sandbox
 Data visualization: Tableau
 
+SQL queries: 
+
 ![Sheet 1](https://github.com/markwei93/markwei93.github.io/assets/157609668/3cd79f2d-105c-4518-b1b9-d0848b408f8f)
 ![Sheet 2](https://github.com/markwei93/markwei93.github.io/assets/157609668/4a78be51-d411-4bda-93cd-8f918513c87a)
 ![Sheet 3](https://github.com/markwei93/markwei93.github.io/assets/157609668/bca49119-9171-408d-a97c-ce062a7ca565)
