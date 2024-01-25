@@ -3,6 +3,7 @@ Hello, this Portfolio showcase a case study I've done while I was taking the Goo
 Data source: [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html)
 
 Queried using: BigQuery Sandbox
+
 Data visualization: Tableau
 
 SQL Queries: [Cyclistics data](https://github.com/markwei93/markwei93.github.io/blob/main/Cyclistics%20data.sql)
