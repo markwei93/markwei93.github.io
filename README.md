@@ -1,6 +1,7 @@
 Hello, this Portfolio showcase a case study I've done while I was taking the Google Data Analytics Certificate program
 
 Data source: [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html)
+
 Queried using: BigQuery Sandbox
 Data visualization: Tableau
 
